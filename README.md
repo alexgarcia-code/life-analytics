@@ -27,7 +27,7 @@ life-analytics/
 1. Clona el repositorio
 2. Instala las dependencias:
     pip install -r requirements.txt
-3. Edita el archivo life_data.csv con tus datos de hábitos.
+3. Edita el archivo life_data.csv con tus datos de hábitos
 4. Ejecuta el script:
     src/main.py
 
